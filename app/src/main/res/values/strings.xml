@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DOOR STEP SERVICES</string>
+
+    <string-array name="area">
+        <item>Dindigul</item>
+        <item>Somanur</item>
+    </string-array>
+</resources>
